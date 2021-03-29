@@ -5,7 +5,7 @@
 :mag_right: **About me:**
 
 - :punch: My name is Leniel Ferreira dos Santos
-- :earth_americas: I from Curitiba, Brazil
+- :earth_americas: I'm from Curitiba, Brazil
 - :computer: I'm currently working with risk, internal controls and process automation
 - :mortar_board: System analyst and developer at University Campus of Andrade and especialization in Security Information at ULT
 - :wind_chime: Data Science student
