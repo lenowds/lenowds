@@ -1,4 +1,4 @@
-### :ok_hand: **Welcome to my Github profile**
+### :ok_hand: **Welcome my Github profile**
 
 ------
 
