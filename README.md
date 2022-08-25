@@ -6,19 +6,22 @@
 
 - :punch: My name is Leniel Ferreira dos Santos
 - :earth_americas: I'm from Curitiba, Brazil
-- :computer: I'm currently working with risk, internal controls and process automation
-- :mortar_board: System analyst and developer at University Campus of Andrade and especialization in Security Information at ULT
-- :wind_chime: Data Science student
+- :computer: I'm currently working with Big Data
+- :mortar_board: System analyst at University Campus of Andrade and especialization in Security Information at ULT
+- :wind_chime: Apache Spark, Cloud.
 
 :pushpin: **Profissional interest:**
 
 ```
 interest = list()
-interest.append('Process automation')
-interest.append('RPA')
+interest.append('AWS')
+interest.append('Azure')
+interest.append('GCP')
+interest.append('OCI')
+interest.append('Data Enginner')
 interest.append('Python')
-interest.append('Data science')
-interest.append('Machine learning')
+interest.append('Spark')
+interest.append('Kafka')
 
 ```
 
@@ -36,17 +39,23 @@ where
  experience = true
 ```
 
-| dbnames    |
-| ---------- |
-| SQL Server |
-| Postgresql |
-| MongoDB    |
-| MySQL      |
-| SQLite     |
-| NoSQL      |
+| dbnames        |
+| ---------------|
+| SQL Server     |
+| Postgresql     |
+| MongoDB        |
+| MySQL          |
+| SQLite         |
+| AWS RDS        |
+| AWS DynnamoDB  |
+| Azure Database |
+| Azure CosmosDB |
+| GCP SQL        |
+| GCP Firestore  |
+| GCP Datastore  |
 
 
 
 :round_pushpin:  **Tools:**
 
-PyCharm, VSCode, Git, GitHub, PyPi, Kaggle, SoapUI, Postman, Windows, Linux; EMS
+PyCharm, VSCode, Git, GitHub, SoapUI, Postman, Windows, Linux, AWS, Azure, GCP, OCI, Airflow, DBT, Airbyte, Stitch
